@@ -12,6 +12,8 @@ public class MinArray {
                 min=a[i];
             }
         }
+
+
         System.out.print(min);
     }
 }
